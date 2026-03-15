@@ -6,7 +6,7 @@ A security-focused Task Manager API implementation adding JWT-based authenticati
 
 - **A2SV Go Phase:** Task 6 (Security Layer)
 - **Previous Project:** `go-gin-task-manager-api-mongodb`
-- **Next Project:** `go-gin-task-manager-api-testing`
+- **Next Project:** `go-clean-architecture-task-manager`
 
 ## Features
 
